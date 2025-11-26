@@ -1,0 +1,6 @@
+name: Benchmark
+version: 0.4.0
+author: am noah
+description: A benchmark plugin for Minecraft.
+api-version: 1.13
+main: am.noah.benchmark.spigot.BenchmarkPlugin

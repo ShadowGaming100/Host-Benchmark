@@ -8,9 +8,9 @@ import java.nio.file.Path;
 public class PluginDownloader {
 
     public static void main(String[] args) {
-        String fileURL = "https://github.com/ShadowGaming100/Host-Benchmark/raw/refs/heads/main/Benchmark-Spigot-0.3.1.jar";
+        String fileURL = "https://github.com/ShadowGaming100/Host-Benchmark/raw/refs/heads/main/Benchmark-Spigot-0.4.0.jar";
         String pluginsFolder = "plugins";
-        String fileName = "Benchmark-Spigot-0.3.1.jar";
+        String fileName = "Benchmark-Spigot-0.4.0.jar";
 
         try {
             // Create plugins folder if it doesn't exist

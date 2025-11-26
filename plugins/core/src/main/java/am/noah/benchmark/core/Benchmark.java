@@ -8,7 +8,7 @@ import am.noah.benchmark.core.util.InvalidTest;
 
 public class Benchmark {
 
-    private final static String VERSION = "0.3.1";
+    private final static String VERSION = "0.4.0";
 
     private final String serverVersion;
 

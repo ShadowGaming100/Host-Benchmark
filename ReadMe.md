@@ -1,8 +1,10 @@
-# Host Benchmark
+# Host Benchmark v0.4.0
 
 Host Benchmark is a benchmark system meant to benchmark a CPU through Minecraft server plugin APIs. This allows you to gain a score for the processor's ability to perform intensive string modifications at a high speed to compare to other scores. This is especially helpful for getting baseline performance information for hosts who restrict running non-Minecraft jars.
 
 Through the use of Host Benchmark you can also get information about the system that the hosting service is running including the operating system, processor, RAM information, and storage device information.
+
+This version has been updated by ShadowGaming100, made by; amnoah.
 
 Unfortunately, it does have its faults. Firstly, the multi-threaded test is applicable to very few scenarios in Minecraft as Minecraft is almost entirely a single-threaded application. Secondly, anybody can contribute to the score tracker and thus those scores may not be entirely accurate (think of it like Wikipedia). While it is a useful resource to have, use the results with caution.
 

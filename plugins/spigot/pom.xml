@@ -6,19 +6,20 @@
 
     <artifactId>spigot</artifactId>
     <packaging>jar</packaging>
-    <version>${plugin.version}</version>
+    <version>0.4.0</version>
 
     <parent>
         <groupId>am.noah.benchmark</groupId>
         <artifactId>parent</artifactId>
         <version>parent</version>
+        <relativePath>../../parent-pom.xml</relativePath>
     </parent>
 
     <dependencies>
         <dependency>
             <groupId>am.noah.benchmark</groupId>
             <artifactId>core</artifactId>
-            <version>${project.version}</version>
+            <version>0.4.0</version>
             <scope>compile</scope>
         </dependency>
 

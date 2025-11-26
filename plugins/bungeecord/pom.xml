@@ -12,6 +12,7 @@
         <groupId>am.noah.benchmark</groupId>
         <artifactId>parent</artifactId>
         <version>parent</version>
+        <relativePath>../../parent-pom.xml</relativePath>
     </parent>
 
     <dependencies>
